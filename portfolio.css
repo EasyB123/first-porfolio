@@ -189,7 +189,7 @@ nav{
     height: 60px;
     display: flex;
     /* align-items: center; */
-    justify-content: space-between;
+    justify-content: space-around;
     padding: 0 5px;
 }
 nav h1{
@@ -200,7 +200,7 @@ nav ul{
     display: flex;
     color: white;
     font-size: 10px;
-    width: 80%;
+    width: 70%;
     margin-left: 5px;
 
 }
